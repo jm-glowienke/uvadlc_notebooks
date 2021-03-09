@@ -19,7 +19,7 @@ dependencies:
   - cffi=1.14.3
   - chardet=3.0.4
   - cryptography=3.1.1
-  - cudatoolkit=10.1.243
+  - cudatoolkit
   - decorator=4.4.2
   - defusedxml=0.6.0
   - entrypoints=0.3
@@ -42,7 +42,7 @@ dependencies:
   - jupyterlab_pygments=0.1.2
   - jupyterlab_server=1.2.0
   - lcms2=2.11
-  - ld_impl_linux-64=2.33.1=
+  - ld_impl_linux-64
   - libedit=3.1.20191231
   - libffi=3.3
   - libgcc-ng=9.1.0
